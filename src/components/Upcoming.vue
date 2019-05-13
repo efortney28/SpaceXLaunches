@@ -78,6 +78,7 @@ export default {
 }
 .patch {
   font-size: 12px;
+  margin: 1em;
 }
 
 </style>
