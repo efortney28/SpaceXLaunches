@@ -76,5 +76,8 @@ export default {
 .card {
   margin: 1em;
 }
+.patch {
+  font-size: 12px;
+}
 
 </style>
