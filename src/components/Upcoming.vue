@@ -73,5 +73,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
+.card {
+  margin: 1em;
+}
 
 </style>

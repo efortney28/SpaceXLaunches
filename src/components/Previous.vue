@@ -47,7 +47,7 @@ export default {
     },
     async created() {
         try {
-        const res = await axios.get('https://api.spacexdata.com/v3/launches/past')
+        const res = await axios.get('https://api.spacexdata.com/v3/launches/past?order=desc')
         this.launches = res.data
         console.log(this.launches)
         } catch (e) {
