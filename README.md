@@ -1,29 +1,10 @@
-# launchsite
+# Space X Launch Library
+I have always loved space and rockets. I wanted to create and app where I could quickly find out when the next Space X launch would be.
 
-## Project setup
-```
-npm install
-```
+# Technologies Used
+- VueJS
+- SpaceX API (reddit)
+- Netlify for hosting
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Demo
+https://eloquent-heyrovsky-8d7e72.netlify.app/
